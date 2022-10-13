@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lora:wght@400;500;700&display=swap');
 
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:100%; } */
+    }
+
+    @media only screen and (max-device-width: 900px) {
+        /* .menu { width:600px; } */
+        }
+
+        @media only screen and (max-device-width: 700px) {
+            /* .menu { width:400px; } */
+            }       
 
 *{
 
