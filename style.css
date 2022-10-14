@@ -92,7 +92,8 @@ justify-content: center;
 
 @media screen and (max-width: 400px) {
 header > div > h1 { color: red; }
-header > div > h1 { font-size: 10px; }    
+header > div > h1 { font-size: 10px; }
+header > div > p { font-size: 10px; }
     
 
 }
