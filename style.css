@@ -93,7 +93,9 @@ justify-content: center;
 @media screen and (max-width: 400px) {
 header > div > h1 { font-size: 30px; }
 header > div > p { font-size: 13px; }
-.clock .box{ height: 80px; width: 70px; }    
+.clock .box{ height: 80px; width: 70px; } 
+.clock span { font-size: 30px; font-weight: 300; }
+.clock span.time { font-size: 7px; }
     
 
 }
