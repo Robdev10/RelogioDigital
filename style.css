@@ -30,7 +30,7 @@ font-size: 50px;
 }
 
 header > div > p{
-    color: #fffff;
+    color: #fff;
     align-items: center;
     justify-content: center;
     display: flex;
@@ -90,7 +90,7 @@ justify-content: center;
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 750px) {
 header > div > h1 { font-size: 30px; }
 header > div > p { font-size: 13px; }
 .clock .box{ height: 80px; width: 70px; } 
